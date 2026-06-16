@@ -1,5 +1,5 @@
 # Tiêu đề ứng dụng
-st.title("💰 Ứng dụng tính tiền gửi tiết kiệm siêu cấp")
+st.title("💰 Ứng dụng tính tiền gửi tiết kiệm siêu cấp Tường Vy MAR19")
 
 # Nhập dữ liệu
 C = st.number_input(
